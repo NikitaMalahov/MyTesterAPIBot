@@ -1,2 +1,0 @@
-# MyTesterAPIBot
-Test Bot
